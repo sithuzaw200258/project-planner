@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "title": "Project One",
+      "detail": "Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Project Two",
+      "detail": "Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "Project Three",
+      "detail": "Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Project Four",
+      "detail": "Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Project Five",
+      "detail": "Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.Learning to build a variety of web projects helps prepare you to handle anything. It’s impossible to master every language or back-end framework. But exposing yourself to different project types and languages enables you to refine the most important skill a developer can have, problem-solving.",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
